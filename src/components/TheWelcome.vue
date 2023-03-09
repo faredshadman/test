@@ -18,7 +18,7 @@ import SupportIcon from "./icons/IconSupport.vue";
     <a href="https://vuejs.org/" target="_blank" rel="noopener"
       >official documentation</a
     >
-    provides you with all information you need to get started.
+    provides you with all information you need to get started. helllloo
   </WelcomeItem>
 
   <WelcomeItem>
